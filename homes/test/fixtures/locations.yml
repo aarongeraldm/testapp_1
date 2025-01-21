@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  city: MyString
+  state: MyString
+  photo: MyString
+  available_units: 1
+  wifi: false
+  laundry: false
+
+two:
+  name: MyString
+  city: MyString
+  state: MyString
+  photo: MyString
+  available_units: 1
+  wifi: false
+  laundry: false
